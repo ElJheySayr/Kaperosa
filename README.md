@@ -7,6 +7,6 @@ It is a single-player, first-person simulation story game that portrays the eeri
 // **Made in Unity, using Universal Render Pipeline** 
 
 
-Web Link = https://maddcyr06.itch.io/kaperosa \
+Web Link = https://eljhey.itch.io/kaperosa \
 Raw Project & Build = https://drive.google.com/drive/folders/1NMoiiMNiAUKBkPrhGSrZyfj_nnhLSGvB?usp=sharing \
 Screenshots = https://www.artstation.com/artwork/L4m6AA
